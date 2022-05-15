@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\bin\Debug\net6.0\Estrutura_Jogo_RPG.exe
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\bin\Debug\net6.0\Estrutura_Jogo_RPG.deps.json
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\bin\Debug\net6.0\Estrutura_Jogo_RPG.runtimeconfig.json
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\bin\Debug\net6.0\Estrutura_Jogo_RPG.dll
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\bin\Debug\net6.0\Estrutura_Jogo_RPG.pdb
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.dll
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\refint\Estrutura_Jogo_RPG.dll
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.pdb
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\Estrutura_Jogo_RPG.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Projetos DIO\C#\Estrutura_Jogo_RPG\obj\Debug\net6.0\ref\Estrutura_Jogo_RPG.dll
