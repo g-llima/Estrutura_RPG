@@ -8,6 +8,7 @@ public class Heroi
     private int maxMp;
     private int mp;
     private int baseDmg;
+    private bool defending;
 
     public Heroi(string name, int lv, string hClass)
     {
@@ -19,6 +20,7 @@ public class Heroi
         this.maxMp = 15 + (lv / 4);
         this.mp = maxMp;
         this.baseDmg = 5 + (lv / 4);
+        this.defending = false;
     }
 
 
@@ -53,8 +55,15 @@ public class Heroi
             damage = 0;
             msg = this.name + " tentou acertar " + oponente.Name + " porem, errou.";
         }
-        Console.WriteLine("\n=============ATAQUE=============");
-        Console.WriteLine(this.name + " tirou... " + diceValue);
+
+        Console.WriteLine("\n=============ATAQUE=============\n");
+        if (oponente.Defending) 
+        {
+            damage /= 2;
+            oponente.Defending = false;
+            System.Console.WriteLine(oponente.Name + " estava defendendo o ataque!\n");
+        }      
+        Console.WriteLine(Name + " tirou... " + diceValue);
         Console.WriteLine(msg);
         Console.WriteLine("Dano: " + damage);
         Console.WriteLine("=================================\n");
@@ -69,6 +78,16 @@ public class Heroi
             oponente.Hp = oponente.Hp - damage;
         }
         
+    }
+    public void Defender() 
+    {
+        if (Defending) Console.WriteLine(Name + " já está defendendo.");
+        else 
+        {
+            Defending = true;
+            Console.WriteLine(Name + " está se defendendo do próximo ataque.");
+        }
+
     }
 
     public int JogarD20()
@@ -87,5 +106,6 @@ public class Heroi
     public int MaxMp { get => maxMp; }
     public int Hp {get => hp; set => hp = value; }
     public int Mp {get => mp; set => mp = value; }
+    public bool Defending {get => defending; set => defending = value; }
 
 }
